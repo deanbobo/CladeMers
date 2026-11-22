@@ -1,0 +1,7 @@
+taxid	parent_taxid	scientific_name	assigned_kmers	assigned_kmers_incl_descendants
+10226	33208	Placozoa	1	6
+9000001	10226	Example lineage A	1	4
+9000002	9000001	Example species A1	2	2
+9000003	9000001	Example species A2	1	1
+9000004	10226	Example lineage B	1	1
+9000005	10226	Example unsampled lineage	0	0

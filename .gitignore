@@ -1,0 +1,29 @@
+# Build products
+/clademers
+/clademers.o
+*.dSYM/
+
+# Generated results and local reference data (keep bundled examples tracked)
+/clademers_*
+/results/
+/data/
+/descendant_demo_results/
+/descendant_demo_report/
+/descendant_demo_gzip/
+
+# Local research drafts, session notes and release downloads
+/analysis/
+/manuscript/
+/PROJECT_CONTEXT.txt
+/CladeMers-*.zip
+/CladeMers-*.zip.sha256
+
+# Local settings and caches
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+.vscode/
+.idea/

@@ -1,0 +1,8 @@
+>target_shared synthetic sequence that also occurs in background taxid=10226
+ACGTCGATGCATCGTAGCATGCTACGTACGTCGATCGTAGCA
+>target_retained synthetic sequence absent from this tiny background taxid=10227
+GATCCGAATGCGTACCTGATCGATGCTAGTCCGATAGCTTAC
+>background_shared identical to target_shared taxid=9606
+ACGTCGATGCATCGTAGCATGCTACGTACGTCGATCGTAGCA
+>background_other synthetic homopolymer taxid=2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

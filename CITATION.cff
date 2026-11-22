@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use CladeMers, please cite this software and report the software version,
+  reference database release, taxonomy snapshot, and command used.
+type: software
+title: 'CladeMers: exact lineage-specific k-mer discovery from nucleotide references'
+authors:
+  - family-names: Bobo
+    given-names: Dean M.
+version: 0.13.0
+date-released: '2026-11-22'
+license: MIT
+repository-code: 'https://github.com/deanbobo/CladeMers'
+url: 'https://github.com/deanbobo/CladeMers'
+abstract: >-
+  CladeMers extracts distinct canonical nucleotide k-mers present in a selected
+  taxonomic lineage and absent from the background in a supplied reference
+  snapshot. It supports BLAST databases, plain or compressed FASTA, two taxonomy
+  sources, checkpoint recovery, and per-clade reports and FASTA exports.
+keywords:
+  - bioinformatics
+  - k-mers
+  - taxonomy
+  - environmental DNA
+  - marker discovery

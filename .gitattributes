@@ -1,0 +1,11 @@
+* text=auto
+*.cpp text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.cff text eol=lf
+*.slurm text eol=lf
+*.fasta text eol=lf
+*.tsv text eol=lf
+*.dmp text eol=lf
+Makefile text eol=lf

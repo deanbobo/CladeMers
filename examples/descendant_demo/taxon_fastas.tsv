@@ -1,0 +1,6 @@
+taxid	scientific_name	assigned_kmers	fasta_file
+10226	Placozoa	1	taxon_fastas/taxid_10226.fasta
+9000001	Example lineage A	1	taxon_fastas/taxid_9000001.fasta
+9000002	Example species A1	2	taxon_fastas/taxid_9000002.fasta
+9000003	Example species A2	1	taxon_fastas/taxid_9000003.fasta
+9000004	Example lineage B	1	taxon_fastas/taxid_9000004.fasta

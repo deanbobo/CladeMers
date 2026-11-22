@@ -1,0 +1,8 @@
+>target_shared synthetic sequence that also occurs in background
+ACGTCGATGCATCGTAGCATGCTACGTACGTCGATCGTAGCA
+>target_retained synthetic sequence absent from this tiny background
+GATCCGAATGCGTACCTGATCGATGCTAGTCCGATAGCTTAC
+>background_shared identical to target_shared
+ACGTCGATGCATCGTAGCATGCTACGTACGTCGATCGTAGCA
+>background_other synthetic homopolymer
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
